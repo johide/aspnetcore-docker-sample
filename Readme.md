@@ -2,7 +2,7 @@
 
 ## Build
 ```
-docker build --rm --pull -f "./Dockerfile"  -t "sample:latest"
+docker build --rm --pull -f "./Dockerfile"  -t "sample:latest" .
 ```
 
 ## Run
